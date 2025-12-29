@@ -1,0 +1,4 @@
+数据库中用户密码均是123456
+mysql5.7执行
+SET GLOBAL INNODB_LARGE_PREFIX = ON;
+之后再导入数据库
